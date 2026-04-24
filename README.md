@@ -1,12 +1,10 @@
-for a working DMG recovery, Ventura google drive link is here: https://drive.google.com/drive/folders/12wPk_0hWNedkA79vaiYqDWVGmLmaKz-L?usp=sharing
-
-
-
+for a working DMG recovery, via DMCA i cannot distribute the base system files, but looking into macrecovery.py is a legal way to do it. it is quite easy and once its done you are all set.
+they have a great way of doing things, allowing you to actually download the recovery files legally.
 
 just put the EFI on the root of the disk, preferably a FAT32 USB stick. 
 
 
-name a folder com.apple.recovery.boot,
+name a folder com.apple.recovery.boot, on the root of the drive (not inside EFI folder)
 
 
 
@@ -23,3 +21,10 @@ the type covers all work, including the touch ID one but it is not functional in
 
 
 Battery Reporting works perfectly. 
+
+
+please note you will need to add HORNIDS.kext for phone tethering or UnPlugged, but i personally 
+like to use the TP-LINK UE300 as it has a RealTek chip that doesnt need a 3rd party kext.
+
+
+it is as close to Plug-and-Play as you can get on a hackintosh as the internal Marvell Avastar chip will never work with MacOS. a good strategy if you find a working USB to Ethernet adapter is once you click on the reinstall macOS button, yank out the USB and swap to the adapter.
