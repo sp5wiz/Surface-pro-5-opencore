@@ -27,9 +27,8 @@ please note you will need to add HORNIDS.kext for phone tethering or UnPlugged, 
 like to use the TP-LINK UE300 as it has a RealTek chip that doesnt need a 3rd party kext.
 
 
-it is as close to Plug-and-Play as you can get on a hackintosh as the internal Marvell Avastar chip will never work with MacOS. a good strategy if you find a working USB to Ethernet adapter is once 
-
-you click on the reinstall macOS button, yank out the USB and swap to the adapter.
+it is as close to Plug-and-Play as you can get on a hackintosh as the internal Marvell Avastar chip will never work with MacOS. a good strategy if you find a working USB to Ethernet adapter is that 
+ once you click on the reinstall macOS button, yank out the USB and swap to the adapter.
 
 
 ⚠️ I DO NOT REPRESENT MICROSOFT IN ANY WAY, SHAPE, OR FORM. THIS EFI MAY CAUSE DATA LOSS, THIS IS NOT MY RESPONSIBILITY, AND I DO NOT SAY THIS WILL WORK ON ALL SURFACE MODELS, OR SURFACE PRO 1796 MODELS! IT IS NOT MY RESPONSIBILITY FOR UEFI DAMAGE OR "BRICKING" AND I KNOWINGLY  ACCEPT NO LIABILITY IN ANY WAY, AND BY DOWNLOADING THIS PRODUCT, YOU ACCEPT THESE TERMS ⚠️
