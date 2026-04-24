@@ -26,6 +26,8 @@ Battery Reporting works perfectly.
 please note you will need to add HORNIDS.kext for phone tethering or UnPlugged, but i personally 
 like to use the TP-LINK UE300 as it has a RealTek chip that doesnt need a 3rd party kext.
 
+Even with WiFi, i highly disclaim signing into your apple ID or iServices as this will put your account at risk.
+
 
 it is as close to Plug-and-Play as you can get on a hackintosh as the internal Marvell Avastar chip will never work with MacOS. a good strategy if you find a working USB to Ethernet adapter is that 
  once you click on the reinstall macOS button, yank out the USB and swap to the adapter.
