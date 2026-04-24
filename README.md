@@ -23,7 +23,7 @@ the type covers all work, including the touch ID one but it is not functional in
 Battery Reporting works perfectly. 
 
 
-please note you will need to add HORNIDS.kext for phone tethering or UnPlugged, but i personally 
+please note you will need to add HoRNDIS.kext for phone tethering or UnPlugged, but i personally 
 like to use the TP-LINK UE300 as it has a RealTek chip that doesnt need a 3rd party kext.
 
 Even with WiFi, i highly disclaim signing into your apple ID or iServices as this will put your account at risk.
