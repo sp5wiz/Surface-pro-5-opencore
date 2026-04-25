@@ -1,3 +1,7 @@
+⚠️IMPORTANT⚠️ the dmg recovery options may NOT work with openHFS+.efi, for stability please add it into the drivers section. it is not included for DMCA compliance
+
+
+
 for a working DMG recovery, via DMCA i cannot distribute the base system files, but looking into macrecovery.py is a legal way to do it. it is quite easy and once its done you are all set.
 they have a great way of doing things, allowing you to actually download the recovery files legally,
 Although there are other sources, albeit legally i do not support it.
