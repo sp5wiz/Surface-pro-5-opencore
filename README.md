@@ -1,7 +1,3 @@
-⚠️IMPORTANT⚠️ OPENCORE AT ALL may NOT work with openHFS+.efi, for Functionality please add the proprietary HFS+.efi into the drivers section. if recovery does not appear, that is why. it is not included for DMCA compliance
-
-
-
 for a working DMG recovery, via DMCA i cannot distribute the base system files, but looking into macrecovery.py is a legal way to do it. it is quite easy and once its done you are all set.
 they have a great way of doing things, allowing you to actually download the recovery files legally,
 Although there are other sources, albeit legally i do not support it.
