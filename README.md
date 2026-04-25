@@ -1,4 +1,4 @@
-⚠️IMPORTANT⚠️ the dmg recovery options may NOT work with openHFS+.efi, for stability please add the proprietary HFS+.efi into the drivers section. it is not included for DMCA compliance
+⚠️IMPORTANT⚠️ the dmg recovery options may NOT work with openHFS+.efi, for stability please add the proprietary HFS+.efi into the drivers section. if recovery does not appear, that is why. it is not included for DMCA compliance
 
 
 
