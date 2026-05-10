@@ -2,6 +2,9 @@ for a working DMG recovery, via DMCA i cannot distribute the base system files, 
 they have a great way of doing things, allowing you to actually download the recovery files legally,
 Although there are other sources, albeit legally i do not support it.
 
+
+⚠️ SOME BASESYSTEMS JUST REBOOT TO PICKER. THIS IS NOT A ME ISSUE. CREATE ANOTHER DOWNLOAD WITH ANOTHER MACOS VERSION ETC ⚠️ 
+
 just put the EFI on the root of the disk, preferably a FAT32 USB stick. 
 
 
