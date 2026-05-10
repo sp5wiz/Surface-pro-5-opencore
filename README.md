@@ -3,9 +3,9 @@ they have a great way of doing things, allowing you to actually download the rec
 Although there are other sources, albeit legally i do not support it.
 
 
-⚠️ SOME BASESYSTEMS JUST REBOOT TO PICKER. THIS IS NOT A ME ISSUE. CREATE ANOTHER DOWNLOAD WITH ANOTHER MACOS VERSION ETC ⚠️ 
+⚠️ SOME BASESYSTEMS JUST REBOOT TO PICKER. THIS IS NOT A ME ISSUE. CREATE ANOTHER DOWNLOAD WITH ANOTHER MACOS VERSION ETC, I RECENTLY MADE SCANPOLICY 0, WHICH SHOWS ALL OPTIONS EVEN IF SOME ARE CORRUPT ETC ⚠️ 
 
-just put the EFI on the root of the disk, preferably a FAT32 USB stick. 
+just put the EFI on the root of the disk, preferably a FAT32 USB stick. IF IT IS EXFAT OR ANYTHING OTHER THAN FAT32 IT WILL NOT BOOT
 
 
 name a folder com.apple.recovery.boot, on the root of the drive (not inside EFI folder)
