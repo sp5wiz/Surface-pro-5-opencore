@@ -3,7 +3,7 @@ they have a great way of doing things, allowing you to actually download the rec
 Although there are other sources, albeit legally i do not support it.
 
 
-⚠️ SOME BASESYSTEMS JUST REBOOT TO PICKER. THIS IS NOT A ME ISSUE. CREATE ANOTHER DOWNLOAD WITH ANOTHER MACOS VERSION ETC, I RECENTLY MADE SCANPOLICY 0, WHICH SHOWS ALL OPTIONS EVEN IF SOME ARE CORRUPT ETC ⚠️ 
+⚠️ Some basesystems just reboot to picker. This is not a me issue. Create another download with another macOS version etc, I recently made scanpolicy 0, which shows all options even if some are corrupt. ⚠️ 
 
 just put the EFI on the root of the disk, preferably a FAT32 USB stick. IF IT IS EXFAT OR ANYTHING OTHER THAN FAT32 IT WILL NOT BOOT
 
@@ -36,7 +36,7 @@ Even with WiFi, i highly disclaim signing into your apple ID or iServices as thi
 it is as close to Plug-and-Play as you can get on a hackintosh as the internal Marvell Avastar chip will never work with MacOS. a good strategy if you find a working USB to Ethernet adapter is that 
  once you click on the reinstall macOS button, yank out the USB and swap to the adapter.
 
-the touchscreen does not work as the drivers are unstable
+the touchscreen does not work as the drivers are unstable and i want to provide a rock solid efi, even if touch support is lacking, but you can add the kext and your own risk
 
 
 ⚠️ I DO NOT REPRESENT MICROSOFT IN ANY WAY, SHAPE, OR FORM. THIS EFI MAY CAUSE DATA LOSS, THIS IS NOT MY RESPONSIBILITY, AND I DO NOT SAY THIS WILL WORK ON ALL SURFACE MODELS, OR SURFACE PRO 1796 MODELS! IT IS NOT MY RESPONSIBILITY FOR UEFI DAMAGE OR "BRICKING" AND I KNOWINGLY  ACCEPT NO LIABILITY IN ANY WAY, AND THIS EFI IS PROVIDED "AS-IS" The AND BY DOWNLOADING THIS PRODUCT, YOU ACCEPT THESE TERMS ⚠️
