@@ -24,6 +24,7 @@ the type covers all work, including the touch ID one but it is not functional in
 
 Battery Reporting works perfectly. 
 
+This EFI only works between High sierra 10.13 and MacOS Ventura, 13. 
 
 please note you will need to add HoRNDIS.kext for phone tethering or UnPlugged, but i personally 
 like to use the TP-LINK UE300 as it has a RealTek chip that doesnt need a 3rd party kext.
@@ -36,7 +37,10 @@ it is as close to Plug-and-Play as you can get on a hackintosh as the internal M
 
 the touchscreen does not work as the drivers are unstable and i want to provide a rock solid efi, even if touch support is lacking, but you can add the kext and your own risk
 
+*notes*
 
+add -v for verbose to your boot args if you cannot boot. This will not fix the issue, but will help you troubleshoot.
+ 
 *Known Issues*
 
 Please note, that Sonoma and Sequioa, even Tahoe is unbootable at the moment. it shows varying bootstrap errors and needs OCLP patching. it does not boot.
