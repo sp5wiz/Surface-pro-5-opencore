@@ -40,6 +40,8 @@ the touchscreen does not work as the drivers are unstable and i want to provide 
 *notes*
 
 add -v for verbose to your boot args if you cannot boot. This will not fix the issue, but will help you troubleshoot.
+
+ I am sincerely sorry about the ._ finder junk, delete them at your own risk.
  
 *Known Issues*
 
