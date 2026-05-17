@@ -37,4 +37,9 @@ it is as close to Plug-and-Play as you can get on a hackintosh as the internal M
 the touchscreen does not work as the drivers are unstable and i want to provide a rock solid efi, even if touch support is lacking, but you can add the kext and your own risk
 
 
+*Known Issues*
+
+Please note, that Sonoma and Sequioa, even Tahoe is unbootable at the moment. it shows varying bootstrap errors and needs OCLP patching. it does not boot.
+
+
 ⚠️ I DO NOT REPRESENT MICROSOFT IN ANY WAY, SHAPE, OR FORM. THIS EFI MAY CAUSE DATA LOSS, THIS IS NOT MY RESPONSIBILITY, AND I DO NOT SAY THIS WILL WORK ON ALL SURFACE MODELS, OR SURFACE PRO 1796 MODELS! IT IS NOT MY RESPONSIBILITY FOR UEFI DAMAGE OR "BRICKING" AND I KNOWINGLY  ACCEPT NO LIABILITY IN ANY WAY, AND THIS EFI IS PROVIDED "AS-IS" The AND BY DOWNLOADING THIS PRODUCT, YOU ACCEPT THESE TERMS ⚠️
