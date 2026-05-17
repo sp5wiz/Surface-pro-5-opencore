@@ -17,8 +17,6 @@ then put the basesystem.chunklist and basesystem.dmg into that com.apple.recover
 
 boot from usb.
 
-please ignore the .gitattributes
-
 This has been tested on Samsung PM971 and Sk Hynix BC501 drives and it works. 128gb and 256gb work.
 
 the type covers all work, including the touch ID one but it is not functional in MacOS
