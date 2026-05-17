@@ -5,7 +5,7 @@ Although there are other sources, albeit legally i do not support it.
 
 ⚠️ Some basesystems just reboot to picker. This is not a me issue. Create another download with another macOS version etc, I recently made scanpolicy 0, which shows all options even if some are corrupt. ⚠️ 
 
-just put the EFI on the root of the disk, preferably a FAT32 USB stick. IF IT IS EXFAT OR ANYTHING OTHER THAN FAT32 IT WILL NOT BOOT
+just put the EFI on the root of the disk, preferably a FAT32 USB stick. if it is exfat or anything else, it will unfortunately not boot as the Surface UEFI expects fat32
 
 
 name a folder com.apple.recovery.boot, on the root of the drive (not inside EFI folder)
