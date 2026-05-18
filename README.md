@@ -51,13 +51,21 @@ Please note, that Sonoma and Sequioa, even Tahoe is unbootable at the moment. it
 *What Works, And what Doesn't.*
 
 *Works*
+
 Graphics Acceleration
+
 Sound
+
 Type Cover advanced gestures
+
 keyboard
+
 trackpad
+
 USB Ports
+
 Battery Reporting
+
 Everything not listed in the broken section
  
 *Does Not Work / Broken*
