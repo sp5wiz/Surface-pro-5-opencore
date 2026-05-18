@@ -48,4 +48,28 @@ add -v for verbose to your boot args if you cannot boot. This will not fix the i
 Please note, that Sonoma and Sequioa, even Tahoe is unbootable at the moment. it shows varying bootstrap errors and needs OCLP patching. it does not boot.
 
 
+*What Works, And what Doesn't.*
+
+*Works*
+Graphics Acceleration
+Sound
+Type Cover advanced gestures
+keyboard
+trackpad
+USB Ports
+Battery Reporting
+Everything not listed in the broken section
+ 
+*Does Not Work / Broken*
+
+WiFi
+BlueTooth
+SD Card Slot
+
+*Could Work, But not tested*
+
+Touch, needs kext
+
+
+
 *⚠️ I DO NOT REPRESENT MICROSOFT IN ANY WAY, SHAPE, OR FORM. THIS EFI MAY CAUSE DATA LOSS, THIS IS NOT MY RESPONSIBILITY, AND I DO NOT SAY THIS WILL WORK ON ALL SURFACE MODELS, OR SURFACE PRO 1796 MODELS! IT IS NOT MY RESPONSIBILITY FOR UEFI DAMAGE OR "BRICKING" AND I KNOWINGLY  ACCEPT NO LIABILITY IN ANY WAY, AND THIS EFI IS PROVIDED "AS-IS" The AND BY DOWNLOADING THIS PRODUCT, YOU ACCEPT THESE TERMS ⚠️*
