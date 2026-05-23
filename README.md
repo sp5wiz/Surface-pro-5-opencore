@@ -8,6 +8,7 @@ Although there are other sources, albeit legally i do not support it.
 just put the EFI on the root of the disk, preferably a FAT32 USB stick. if it is exfat or anything else, it will unfortunately not boot as the Surface UEFI expects fat32
 
 
+
 name a folder com.apple.recovery.boot, on the root of the drive (not inside EFI folder)
 
 
@@ -78,6 +79,11 @@ SD Card Slot
 
 Touch, needs kext
 
+*SECURITY*
+
+change csr-active-config in nvram to 8 zeros, 00000000 for fully enabled SIP. the previous should be 03000000. only do this once you reach the desktop.
+
+USE OCAT, NOT ProperTree, as the ._ might confuse the OC clean Snapshot function. if this occurs, do not save, instead delete all files starting with ._ in the efi, and clean snapshot again.
 
 
 *⚠️ I DO NOT REPRESENT MICROSOFT IN ANY WAY, SHAPE, OR FORM. THIS EFI MAY CAUSE DATA LOSS, THIS IS NOT MY RESPONSIBILITY, AND I DO NOT SAY THIS WILL WORK ON ALL SURFACE MODELS, OR SURFACE PRO 1796 MODELS! IT IS NOT MY RESPONSIBILITY FOR UEFI DAMAGE OR "BRICKING" AND I KNOWINGLY  ACCEPT NO LIABILITY IN ANY WAY, AND THIS EFI IS PROVIDED "AS-IS" AND BY DOWNLOADING THIS PRODUCT, YOU ACCEPT THESE TERMS ⚠️*
