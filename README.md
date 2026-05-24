@@ -81,7 +81,9 @@ Touch, needs kext
 
 *SECURITY*
 
-change csr-active-config in nvram to 8 zeros, 00000000 for fully enabled SIP. the previous should be 03000000. only do this once you reach the desktop.
+change csr-active-config in nvram to 8 zeros, 00000000 for fully enabled SIP and SSV. the previous should be 03080000. only do this once you reach the desktop.
+
+TO ENABLE FILEVAULT 2, YOU NEED TO DO THE CHANGES STATED ABOVE
 
 USE OCAT, NOT ProperTree, as the ._ might confuse the OC clean Snapshot function. if this occurs, do not save, instead delete all files starting with ._ in the efi, and clean snapshot again.
 
