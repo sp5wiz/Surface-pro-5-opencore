@@ -93,3 +93,4 @@ USE OCAT, NOT ProperTree, as the ._ might confuse the OC clean Snapshot function
 
 *In Action!*<img width="4284" height="5712" alt="IMG_3674" src="https://github.com/user-attachments/assets/29524007-0ef5-440c-b274-c970bc05651b" />
 <img width="3024" height="4032" alt="IMG_3676" src="https://github.com/user-attachments/assets/9e49e22e-f8b5-44e7-9ee9-8b53da63bef4" />
+*its full dpi, right scaling out of the box!*
